@@ -1,2 +1,0 @@
-Guia Completo: Configuração do Ambiente Local para o Projeto SBD
-Objetivo: Ao final deste guia, cada membro do grupo terá um ambiente de banco de dados PostgreSQL idêntico em seu próprio computador, com a estrutura e os dados do projeto prontos para a análise.
